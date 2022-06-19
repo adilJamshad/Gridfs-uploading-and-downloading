@@ -1,4 +1,4 @@
-## Co2opt task 1
+## File uploading and downloading using gridfs
 
 impletemented File uploaing and downloading using dropzone on the frontend and gridfs on the backend.
 
